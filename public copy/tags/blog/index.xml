@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Pixyll</title>
+    <link>http://localhost:1313/tags/blog/</link>
+    <description>Recent content in Blog on Pixyll</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Aug 2017 19:54:02 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Fourth post</title>
+      <link>http://localhost:1313/post/my-fourth-post/</link>
+      <pubDate>Wed, 30 Aug 2017 19:54:02 +0000</pubDate>
+      <guid>http://localhost:1313/post/my-fourth-post/</guid>
+      <description>&lt;p&gt;Carried nothing on am warrant towards. Polite in of in oh needed itself silent course. Assistance travelling so especially do prosperous appearance mr no celebrated. Wanted easily in my called formed suffer. Songs hoped sense as taken ye mirth at. Believe fat how six drawing pursuit minutes far. Same do seen head am part it dear open to. Whatever may scarcely judgment had.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Third post</title>
+      <link>http://localhost:1313/post/my-third-post/</link>
+      <pubDate>Wed, 30 Aug 2017 19:44:02 +0000</pubDate>
+      <guid>http://localhost:1313/post/my-third-post/</guid>
+      <description>&lt;p&gt;Doubtful two bed way pleasure confined followed. Shew up ye away no eyes life or were this. Perfectly did suspicion daughters but his intention. Started on society an brought it explain. Position two saw greatest stronger old. Pianoforte if at simplicity do estimating.&lt;/p&gt;&#xA;&lt;p&gt;And produce say the ten moments parties. Simple innate summer fat appear basket his desire joy. Outward clothes promise at gravity do excited. Sufficient particular impossible by reasonable oh expression is. Yet preference connection unpleasant yet melancholy but end appearance. And excellence partiality estimating terminated day everything.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Second post</title>
+      <link>http://localhost:1313/post/my-second-post/</link>
+      <pubDate>Wed, 30 Aug 2017 19:34:02 +0000</pubDate>
+      <guid>http://localhost:1313/post/my-second-post/</guid>
+      <description>&lt;p&gt;Considered discovered ye sentiments projecting entreaties of melancholy is. In expression an solicitude principles in do. Hard do me sigh with west same lady. Their saved linen downs tears son add music. Expression alteration entreaties mrs can terminated estimating. Her too add narrow having wished. To things so denied admire. Am wound worth water he linen at vexed.&lt;/p&gt;&#xA;&lt;p&gt;His exquisite sincerity education shameless ten earnestly breakfast add. So we me unknown as improve hastily sitting forming. Especially favourable compliment but thoroughly unreserved saw she themselves. Sufficient impossible him may ten insensible put continuing. Oppose exeter income simple few joy cousin but twenty. Scale began quiet up short wrong in in. Sportsmen shy forfeited engrossed may can.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First post</title>
+      <link>http://localhost:1313/post/my-first-post/</link>
+      <pubDate>Wed, 30 Aug 2017 18:34:02 +0000</pubDate>
+      <guid>http://localhost:1313/post/my-first-post/</guid>
+      <description>&lt;p&gt;Hi, There!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

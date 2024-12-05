@@ -30,22 +30,16 @@ min_version = "0.115.2"
 
 [menu]
   [[menu.main]]
-    identifier = "Accueil"
-    name = "Accueil"
-    weight = -2
-    url = "/pages/accueil/"
-
-  [[menu.main]]
     identifier = "A propos"
     name = "A propos"
     weight = -1
-    url = "/pages/apropos/"
+    url = "/page/apropos.html"
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     weight = 0
-    url = "/pages/contact/"    
+    url = "/page/contact.html"    
   
 
 [markup]
