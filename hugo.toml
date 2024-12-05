@@ -1,0 +1,67 @@
+name = "TopHat"
+theme = "TopHat"
+license = "MIT"
+licenselink = "https://github.com/sergiobarriel/tophat-theme/LICENSE"
+description = "A simple theme for Hugo just for blogging"
+homepage = "https://github.com/sergiobarriel/tophat-theme"
+tags = ["blog", "minimalism"]
+features = ["syntax highlighting"]
+min_version = "0.115.2"
+
+[author]
+  name = "Sergio Barriel"
+  homepage = "https://twitter.com/sergiobarriel"
+
+  [params]
+    
+  subtitle = "Yonatan Teklezgi"
+  description = "Mes articles de veille"
+  author = "Yonatan Teklezgi"
+
+  main = "post"
+  featured = true
+  
+  # You can customize the visibility of some elements like date, reading time, words counter and tags inside article by setting true or false
+  show_date_on_article = true
+  show_reading_time_on_article = true
+  show_words_count_on_article = true
+  show_tags_on_article = true  
+
+
+[menu]
+  [[menu.main]]
+    identifier = "Accueil"
+    name = "Accueil"
+    weight = -2
+    url = "/pages/accueil/"
+
+  [[menu.main]]
+    identifier = "A propos"
+    name = "A propos"
+    weight = -1
+    url = "/pages/apropos/"
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    weight = 0
+    url = "/pages/contact/"    
+  
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'dracula'
+    tabWidth = 4
+
+
